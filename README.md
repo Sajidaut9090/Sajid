@@ -104,7 +104,7 @@ pipeline engineering (CI/CD for ML), continuous model monitoring, drift detectio
 to maintain production-grade model reliability and accuracy.
 ---
 
-### 🧠 AlmaScience
+### 🧠 AlmaScience 
 **Senior Hardware / Firmware Research Engineer**  
 📍 Lisbon, Portugal  
 🗓️ 2023 – 2025
@@ -154,8 +154,10 @@ component qualification, CPT (Central Purchase Team) for costing and quality iss
 ---
 
 ### ⚙️ Brandenburg UK Pvt Ltd
-## **Senior Hardware / Firmware Engineer**  *📍 Bangalore, India   📍 UK 📍 Singapore 2018 – 2021*
----
+**R&D Senior Hardware / Firmware Engineer**  
+📍 Bangalore, India, 📍UK, 📍Singapore 
+ 🗓️ 2018 – 2021
+
 - Hands-on PCB layout, schematic capture, and mixed-signal design using Altium and SolidWorks PCB.
 - Designed electronic boards based on 32/64-bit microcontrollers/microprocessors with Ethernet connectivity, includ
 ing power stages (buck/boost converters), LDOs, bandgap references (BGR), oscillators, and battery-management
@@ -176,28 +178,23 @@ sensors, and touch-pad sensors.
 - Performed memory flashing, hardware testing, soldering, debugging, and supported PCB fabrication and bring-up.
 
 ---
+### ⚙️ Texas Instruments Pvt Ltd
+**IC Design/ Verification Engineer**  
+📍 BFlorida, United States 
+ 🗓️ 2016 – 2017
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="170"/>
-</p>
-
+- Electronic Hardware Testing and design verification engineer
+- Analog and Digital signal verification and documentation
+- Analog chip IC layout design testing using Mentor Graphics software
 ---
+
+
 
 ## 🧰 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&margin-w=10&margin-h=10"/>
+  English, Hindi, Urdu, German (Intermediate), Spanish (Basic)
 </p>
 
 ---
