@@ -29,32 +29,6 @@ PhD Researcher in AI & Electronic Engineering | Embedded AI Engineer | Computer 
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash" />
-</p>
-
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-- TensorFlow
-- PyTorch
-- Keras
-- OpenCV
-- Scikit-Learn
-- NumPy
-- Pandas
-- MLflow
-- CUDA / cuDNN
-- ONNX
-
----
-
-
 ## 🏢 Professional Experience
 
 ### 🎓 Auckland University of Technology (AUT)
@@ -196,6 +170,30 @@ sensors, and touch-pad sensors.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
   English, Hindi, Urdu, German (Intermediate), Spanish (Basic)
 </p>
+
+---
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+- TensorFlow
+- PyTorch
+- Keras
+- OpenCV
+- Scikit-Learn
+- NumPy
+- Pandas
+- MLflow
+- CUDA / cuDNN
+- ONNX
 
 ---
 
