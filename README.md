@@ -22,7 +22,7 @@ PhD Researcher in AI & Electronic Engineering | Embedded AI Engineer | Computer 
 ---
 
 
-### Educational Qualification
+### 🎓Educational Qualification
 - PhD Research Scholar Auckland University of Technology (AUT), Auckland, NZ Engineering, Computer and Mathematical Sciences
 - Postgraduate (Master of Technology) Vellore Institute of Technology University, Vellore, Tamil Nadu, India Power Electronics and Drives System Engineering
 - Undergraduate (Bachelor of Technology) Shri Mata Vaishno Devi University, Katra-Jammu, India Electronics and Communication Engineering
@@ -31,7 +31,7 @@ PhD Researcher in AI & Electronic Engineering | Embedded AI Engineer | Computer 
 
 ## 🏢 Professional Experience
 
-### 🎓 Auckland University of Technology (AUT)
+### Auckland University of Technology (AUT)
 **Teaching Assistant & PhD Researcher**  
 📍 Auckland, New Zealand  
 🗓️ 2024 – Present
