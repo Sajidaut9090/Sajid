@@ -112,12 +112,46 @@ PhD Researcher in AI & Electronic Engineering | Embedded AI Engineer | Computer 
 📍 Auckland, New Zealand  
 🗓️ 2024 – Present
 
-- AI Research
-- Embedded Systems Development
-- MATLAB Teaching
-- Network Security Labs
-- Student Mentoring
-
+- Design, development, and validation of hardware and firmware for smart floor systems and related sensing platforms
+using MCUs, ESP32, thermopile sensors, and heterogeneous sensor technologies; encompassing full-cycle embed
+ded systems engineering including schematic design, PCB integration, firmware development in C/C++, real-time
+OS(RTOS) configuration, system-level testing, performance benchmarking, and comprehensive technical documen
+tation.
+- Hands-on development of GUI interfaces for multi-channel sensor data visualisation and analysis of virtual spatial
+capacitive floor systems, enabling real-time monitoring, feature extraction, and human activity recognition (HAR)
+across distributed sensor nodes.
+- End-to-end multi-sensor data acquisition, preprocessing, and labelling pipeline development including synchronised
+collection of raw data streams from heterogeneous sensor arrays (Radar, Thermopile, Capacitive, IMU, PIR, MoCap,
+VIVE), application of
+- Signal filtering techniques (Kalman, Butterworth, median filtering), per-frame annotation and ground-truth labelling,
+dataset curation, and ingestion into downstream machine learning and deep learning model training workflows.
+- Development and advancement of Virtual Metrology (VM) algorithms and innovative AI-based predictive solutions,
+leveraging machine learning, statistical modelling, and data-driven approaches for process optimisation and yield
+prediction in industrial and embedded sensing environments.
+- Interpretation and analysis of multimodal sensor data, including visual ground truth, image processing outputs, Radar,
+Thermopile, Capacitive (Smart Floor), VIVE, IMU, PIR, and MoCap systems; applying signal processing and fusion
+techniques to extract meaningful features across temporal and spatial domains.
+- Hands-onimplementationofArtificialIntelligence, Machine Learning, and Natural Language Processing (AI/ML/NLP)
+solutions using Python, TensorFlow, PyTorch, OpenAI APIs, OpenCV, and scikit-image; including model architec
+ture design, training pipeline construction, and inference optimisation for embedded and cloud-deployed systems.
+- Definition and optimisation of (HW/SW) partitioning strategies across edge AI accelerators (e.g., NPUs, TPUs),
+MCUs/MPUs, and cloud-based inference pipelines; with emphasis on latency reduction, power efficiency, and real
+time throughput for resource-constrained environments.
+- Design and implementation of predictive modelling and anomaly detection systems leveraging heterogeneous sensor
+fusion, real-time signal processing, and statistical process control (SPC) methods for fault detection, classification,
+and prognostic health monitoring.
+- Data analysis and model development applying statistical methods, classical machine learning, and deep learning
+techniques including feature engineering, dimensionality reduction (PCA, t-SNE), cross-validation strategies, and
+performance benchmarking across structured and unstructured datasets.
+- Architecture, training, and integration of advanced AI models including Convolutional Neural Networks (CNNs),
+Random Forests (RF), Transformer-based architectures, and Reinforcement Learning (RL) agents for perception,
+activity recognition, decision-making, and closed-loop control systems.
+- Hands-on experience with enterprise AI productivity and deployment platforms including Microsoft 365 Copilot,
+Azure AI Foundry, and Copilot Studio; leveraging these tools for intelligent workflow automation, LLM-powered
+application development, and enterprise-scale AI integration.
+- Systematic evaluation and optimisation of model performance through hyperparameter tuning, AutoML, MLOps
+pipeline engineering (CI/CD for ML), continuous model monitoring, drift detection, and iterative retraining strategies
+to maintain production-grade model reliability and accuracy.
 ---
 
 ### 🧠 AlmaScience
