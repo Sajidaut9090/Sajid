@@ -22,7 +22,7 @@ PhD Researcher in AI & Electronic Engineering | Embedded AI Engineer | Computer 
 ---
 
 
-## Educational Qualification
+### Educational Qualification
 - PhD Research Scholar Auckland University of Technology (AUT), Auckland, NZ Engineering, Computer and Mathematical Sciences
 - Postgraduate (Master of Technology) Vellore Institute of Technology University, Vellore, Tamil Nadu, India Power Electronics and Drives System Engineering
 - Undergraduate (Bachelor of Technology) Shri Mata Vaishno Devi University, Katra-Jammu, India Electronics and Communication Engineering
@@ -154,10 +154,8 @@ component qualification, CPT (Central Purchase Team) for costing and quality iss
 ---
 
 ### ⚙️ Brandenburg UK Pvt Ltd
-**Senior Hardware / Firmware Engineer**  
-📍 Bangalore, India  
-🗓️ 2018 – 2021
-
+## **Senior Hardware / Firmware Engineer**  *📍 Bangalore, India   📍 UK 📍 Singapore 2018 – 2021*
+---
 - Hands-on PCB layout, schematic capture, and mixed-signal design using Altium and SolidWorks PCB.
 - Designed electronic boards based on 32/64-bit microcontrollers/microprocessors with Ethernet connectivity, includ
 ing power stages (buck/boost converters), LDOs, bandgap references (BGR), oscillators, and battery-management
@@ -176,9 +174,6 @@ sensors, and touch-pad sensors.
 - Worked with wireless connectivity and networks including Wi-Fi and Sigfox.
 - UsedlaboratoryequipmentsuchasDSO/MSOoscilloscopes, functiongenerators, and programmablepowersupplies.
 - Performed memory flashing, hardware testing, soldering, debugging, and supported PCB fabrication and bring-up.
----
-
-
 
 ---
 
